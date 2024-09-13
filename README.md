@@ -6,3 +6,4 @@ For pull step
 Second pull
 First push from git
 Push a branch to GitHub
+Line for ammend commit
