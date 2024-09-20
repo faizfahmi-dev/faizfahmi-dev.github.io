@@ -3,7 +3,7 @@ backgorund-color: red:
 }
 .container {
     border: 1px solid black;
-    border: 10px;
+    border-radius: 10px;
 }
 .heading1 {
     color: blue;
